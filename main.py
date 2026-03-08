@@ -1,7 +1,7 @@
 '''
 Author: Aayan Ahmad Khan
 Date: 01/03/2025
-INFO: Educational Tool just too show my talent and improve my portfoilio!
+INFO: Educational Tool just too show my talent and improve my portfoilio!!
 '''
 
 import pyautogui
